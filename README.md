@@ -1,6 +1,8 @@
 <h1 align="center">FBI</h1>
 <p align="center">Información de Facebook por Termux.</p><br>                                      
 
+![sh](https://github.com/Ivonny95ter/FBI/blob/main/Imagen/IMG-20210922-WA0001.jpg)
+
 ### Acerca de
 El algoritmo de FBI es una recopilación precisa de información de las cuentas de amigos en Facebook, toda la información confidencial se puede recopilar fácilmente aunque el sujeto tenga la privacidad de su información "solo yo". La información a obtener es la siguiente:
 
